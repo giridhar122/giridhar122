@@ -1,7 +1,3 @@
-<!-- Banner / Logo -->
-<p align="center">
-  <img src="https://your-image-link-here" alt="Giridhar Logo" width="800"/>
-</p>
 
 <h1 align="center"> I'm Giridhar here..</h1>
 <h3 align="center">Aspiring Computer Science Student | AI Research Enthusiast | Data Analytics | Problem Solver</h3>
@@ -24,13 +20,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
 
----
 
-## 📊 GitHub Stats
-![Giridhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight)
-
----
 
 ## 🚀 Featured Projects
 - [**Python Hangman**](https://github.com/giridhar122/python-hang) – Classic word guessing game in Python.
@@ -48,7 +38,7 @@
 - 🎓 Final year Computer Science student passionate about AI & Data Analytics, Data Science.  
 - 💼 Open to opportunities in software development & AI integration.  
 - 🌱 Currently learning machine learning techniques.  
-- 
+  
 
 ---
 
