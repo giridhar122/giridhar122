@@ -1,5 +1,5 @@
 
-<h1 align="center"> I'm Giridhar here..</h1>
+<h1 align="center"> Giridhar</h1>
 <h3 align="center">Aspiring Computer Science Student | AI Research Enthusiast | Data Analytics | Problem Solver</h3>
 
 ---
