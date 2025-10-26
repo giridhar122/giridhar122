@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>Hi there, I'm Giridhar 👋</h1>
+  <h1>Hi, I'm Giridhar</h1>
   <h3>AI & Data Science Enthusiast | Computer Science Student</h3>
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <a href="https://linkedin.com/in/giridhar-r-a01470320" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;&nbsp;
   <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>&nbsp;&nbsp;
   <a href="https://x.com/_giridhar__" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
   </a>
 </div>
 
@@ -31,7 +31,15 @@ I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with
 ### 🛠️ My Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql,git,vscode,jupyter" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">&nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">&nbsp;
 </p>
 
 ---
@@ -39,6 +47,18 @@ I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with
 ### 🚀 Featured Projects
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Emergency Alert System</h3>
+      <p><b>(IMPORTANT: Describe your project here!)</b> A web application designed to send automated alerts to predefined contacts in an emergency, featuring location tracking and customizable messages.</p>
+      <a href="https://github.com/giridhar122/your-emergency-repo-name"><strong>View on GitHub →</strong></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Personal Portfolio Website</h3>
+      <p><b>(IMPORTANT: Describe your project here!)</b> A responsive personal portfolio built to showcase my skills, projects, and professional journey. Developed with a focus on clean design and user experience.</p>
+      <a href="https://github.com/giridhar122/your-portfolio-repo-name"><strong>View on GitHub →</strong></a>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Python Hangman</h3>
