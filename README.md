@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Giridhar</h1>
+  <h1>Hi, I'm Giridhar </h1>
   <h3>AI & Data Science Enthusiast | Computer Science Student</h3>
 </div>
 
@@ -47,18 +47,6 @@ I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with
 ### 🚀 Featured Projects
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Emergency Alert System</h3>
-      <p><b>(IMPORTANT: Describe your project here!)</b> A web application designed to send automated alerts to predefined contacts in an emergency, featuring location tracking and customizable messages.</p>
-      <a href="https://github.com/giridhar122/your-emergency-repo-name"><strong>View on GitHub →</strong></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Personal Portfolio Website</h3>
-      <p><b>(IMPORTANT: Describe your project here!)</b> A responsive personal portfolio built to showcase my skills, projects, and professional journey. Developed with a focus on clean design and user experience.</p>
-      <a href="https://github.com/giridhar122/your-portfolio-repo-name"><strong>View on GitHub →</strong></a>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>Python Hangman</h3>
