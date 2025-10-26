@@ -10,9 +10,7 @@
   <a href="mailto:your.email@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/_giridhar__" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (formerly Twitter)">
-  </a>
+  
 </div>
 
 ---
@@ -73,16 +71,3 @@ I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with
   </tr>
 </table>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Giridhar's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridhar122&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giridhar122&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
