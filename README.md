@@ -1,11 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=33A4F5&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Giridhar+%F0%9F%91%8B+AI+%26+Data+Science+Enthusiast" alt="Typing SVG">
-  </a>
+  <h1>Hi there, I'm Giridhar 👋</h1>
+  <h3>AI & Data Science Enthusiast | Computer Science Student</h3>
 </div>
 
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <h3 align="center">Connect with Me</h3>
   <a href="https://linkedin.com/in/giridhar-r-a01470320" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>&nbsp;&nbsp;&nbsp;
@@ -57,13 +55,14 @@ I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with
 
 ---
 
-### 🏆 My GitHub Achievements & Activity
+### 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=giridhar122&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Giridhar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridhar122&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/giridhar122/giridhar122/output/github-contribution-grid-snake.svg" alt="snake"></p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=giridhar122&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
