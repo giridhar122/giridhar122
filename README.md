@@ -2,13 +2,13 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/giridhar-r-a01470320">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   <a href="https://x.com/_giridhar__">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a final-year Computer Science student at **[Your University Name]** with a deep passion for building intelligent solutions that solve real-world problems. My primary interests lie in **Artificial Intelligence**, **Data Science**, and **efficient problem-solving**. I enjoy diving into complex datasets, uncovering patterns, and developing algorithms that can drive meaningful impact.
+I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with a deep passion for building intelligent solutions that solve real-world problems. My primary interests lie in **Artificial Intelligence**, **Data Science**, and **efficient problem-solving**. I enjoy diving into complex datasets, uncovering patterns, and developing algorithms that can drive meaningful impact.
 
 - 🎓 Currently pursuing my B.Tech in Computer Science and Engineering.
 - 🌱 Actively diving deeper into **Machine Learning**, focusing on areas like Natural Language Processing and predictive modeling.
@@ -70,16 +70,15 @@ Here are a few projects I've worked on.
 
 ### 📊 My GitHub Stats & Activity
 
-These stats provide a glimpse into my coding habits and activity on GitHub.
+These metrics showcase my dedication and coding activity.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Giridhar's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridhar122&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-  
+<p align="center">
+  <img src="https://ghchart.rshah.org/giridhar122?color=a3aed2&bg_color=1a1b27" alt="Giridhar's Contribution Graph" />
+</p>
 
 ---
-
-
