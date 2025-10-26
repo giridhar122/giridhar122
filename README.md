@@ -3,7 +3,10 @@
   <h3>AI & Data Science Enthusiast | Computer Science Student|Problem Solver</h3>
 </div>
 
+
+
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
+  <h2>Connect With Me</h2>
   <a href="https://linkedin.com/in/giridhar-r-a01470320" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>&nbsp;&nbsp;
