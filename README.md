@@ -27,12 +27,6 @@
 - [**Blackjack Game**](https://github.com/giridhar122/Blackjack-) – Popular card game with Python.
 
 
----
-
-## 🏆 Achievements
-![Trophy](https://github-profile-trophy.vercel.app/?username=giridhar122&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
 
 ## 💡 About Me
 - 🎓 Final year Computer Science student passionate about AI & Data Analytics, Data Science.  
