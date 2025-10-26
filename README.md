@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Giridhar</h1>
+  <h1>Hi,I'm Giridhar</h1>
   <h3>AI & Data Science Enthusiast | Computer Science Student | Problem Solver </h3>
 </div>
 
