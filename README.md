@@ -1,6 +1,11 @@
-# Hi there, I'm Giridhar 👋
-
 <div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=33A4F5&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Giridhar+%F0%9F%91%8B;Aspiring+AI+%26+Data+Science+Enthusiast;I+turn+ideas+into+code." alt="Typing SVG">
+  </a>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <h3 align="center">Connect with Me</h3>
   <a href="https://linkedin.com/in/giridhar-r-a01470320">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -53,21 +58,5 @@ I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with
     </td>
   </tr>
 </table>
-
----
-
-### ⚡ My GitHub Activity & Stats
-
-These stats automatically update and provide a live look into my coding habits.
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Giridhar's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridhar122&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=giridhar122&theme=tokyo-night&hide_border=true&hide_title=false&line=a3aed2&point=44475a&area=true&bg_color=1a1b27" alt="GitHub Activity Graph">
-</p>
 
 ---
