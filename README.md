@@ -1,19 +1,19 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=33A4F5&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Giridhar+%F0%9F%91%8B;Aspiring+AI+%26+Data+Science+Enthusiast;I+turn+ideas+into+code." alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=33A4F5&center=true&vCenter=true&width=550&lines=Hi+there%2C+I'm+Giridhar+%F0%9F%91%8B+AI+%26+Data+Science+Enthusiast" alt="Typing SVG">
   </a>
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
   <h3 align="center">Connect with Me</h3>
-  <a href="https://linkedin.com/in/giridhar-r-a01470320">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://x.com/_giridhar__">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  <a href="https://linkedin.com/in/giridhar-r-a01470320" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/_giridhar__" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" />
   </a>
 </div>
 
@@ -32,13 +32,9 @@ I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with
 
 ### 🛠️ My Tech Stack
 
-| Languages | Databases & Tools |
-| :---: | :---: |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
-| ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql,git,vscode,jupyter" />
+</p>
 
 ---
 
@@ -58,5 +54,16 @@ I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with
     </td>
   </tr>
 </table>
+
+---
+
+### 🏆 My GitHub Achievements & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=giridhar122&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/giridhar122/giridhar122/output/github-contribution-grid-snake.svg" alt="snake"></p>
+</p>
 
 ---
