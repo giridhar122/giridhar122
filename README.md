@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Giridhar</h1>
-  <h3>AI & Data Science Enthusiast | Computer Science Student | Problem Solver </h3>
+  <h3>Artificial Intelligence & Data Science Enthusiast | Computer Science Student | Problem Solver </h3>
 </div>
 
 
