@@ -1,8 +1,8 @@
 <div align="center">
 
-# I'm **Giridhar**
-### 💡 Artificial Intelligence & Data Science Enthusiast  
-### 🎓 Computer Science Student | 🧩 Problem Solver  
+#  Hi, I'm **Giridhar**
+###  Artificial Intelligence & Data Science Enthusiast  
+### Computer Science Student | Problem Solver | Impact Driven 
 
 </div>
 
@@ -11,12 +11,12 @@
 ### 👨‍💻 About Me
 
 I'm a **final-year Computer Science student at Amrita Vishwa Vidyapeetham** with a strong passion for **Artificial Intelligence**, **Data Science**, and **efficient problem-solving**.  
-I enjoy exploring data-driven approaches, building intelligent systems, and creating solutions that drive real-world impact.
+I love exploring data-driven solutions, building intelligent models, and developing impactful software that makes technology smarter and more human.
 
-- 🎓 Currently pursuing **B.Tech in Computer Science and Engineering**  
-- 🤖 Exploring **Machine Learning, NLP**, and **Predictive Modeling**  
-- 🧠 Passionate about combining **AI models** with scalable software  
-- 🚀 Actively seeking **Full-time opportunities** in *Software Development*, *AI/ML*, and *Data Science*  
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering**  
+- 🤖 Exploring **Machine Learning**, **NLP**, and **Predictive Modeling**  
+- 🧠 Passionate about integrating **AI/ML models** into scalable systems  
+- 🚀 Actively seeking **Full-time opportunities** in *Software Development*, *AI/ML Engineering*, and *Data Science*  
 
 ---
 
@@ -68,7 +68,7 @@ I enjoy exploring data-driven approaches, building intelligent systems, and crea
 
 - 📘 Strengthening my problem-solving skills through **LeetCode** & **competitive coding**
 - 🧩 Working on **AI/ML mini-projects** involving real-world datasets
-- 🧠 Learning **Deep Learning** and **Model Optimization**
+- 🧠 Learning **Deep Learning**, **NLP**, and **Model Optimization**
 
 ---
 
@@ -79,7 +79,29 @@ I enjoy exploring data-driven approaches, building intelligent systems, and crea
 
 ---
 
+### 🤝 Let’s Connect & Collaborate!
+
 <div align="center">
 
-💬 *Thanks for visiting my profile! Feel free to connect on*  
-<a href="https://linkedin.com/in/giridhar-r-a01470320" target
+🌟 *I’m always excited to collaborate on AI/ML projects, data-driven solutions, or open-source contributions.*  
+
+
+<br>
+
+<a href="https://linkedin.com/in/giridhar-r-a01470320" target="_blank">
+  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rgiridhar1212@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  
+⭐️ *“Turning ideas into intelligent systems that make a difference.”*  
+
+</div>
