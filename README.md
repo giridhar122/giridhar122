@@ -1,47 +1,59 @@
 <div align="center">
-  <h1>Hi, I'm Giridhar</h1>
-  <h3>Artificial Intelligence & Data Science Enthusiast | Computer Science Student | Problem Solver </h3>
-</div>
+  <h1>👋 Hi, I'm Giridhar</h1>
+  <h3>Artificial Intelligence & Data Science Enthusiast | Computer Science Student | Problem Solver</h3>
 
-
-
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <h4>Connect With Me</h4>
   <a href="https://linkedin.com/in/giridhar-r-a01470320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
   <a href="mailto:your.email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;&nbsp;
-  
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://github.com/giridhar122" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 🧠 About Me
 
-I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with a deep passion for building intelligent solutions that solve real-world problems. My primary interests lie in **Artificial Intelligence**, **Data Science**, and **efficient problem-solving**. I enjoy diving into complex datasets, uncovering patterns, and developing algorithms that can drive meaningful impact.
+I'm a final-year **Computer Science student** at **Amrita Vishwa Vidyapeetham** with a strong passion for **Artificial Intelligence, Data Science**, and **Problem-Solving**.  
+I love exploring complex datasets, uncovering insights, and developing AI-driven solutions that make a real-world impact.
 
-- 🎓 Currently pursuing my B.Tech in Computer Science and Engineering.
-- 🌱 Actively diving deeper into **Machine Learning**, focusing on areas like Natural Language Processing and predictive modeling.
-- 🚀 I'm passionate about developing scalable software and integrating AI/ML models into applications.
-- 💼 Actively seeking **full-time opportunities** in Software Development, Data Science, and AI/ML Engineering.
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering**
+- 🤖 Exploring **Machine Learning**, **NLP**, and **Predictive Modeling**
+- 💻 Interested in **AI-integrated Software Development**
+- 🚀 Actively seeking **Full-time roles** in *Software Development*, *Data Science*, and *AI/ML Engineering*
 
 ---
 
-### 🛠️ My Tech Stack
+### 🧰 My Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">&nbsp;
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">&nbsp;
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">&nbsp;
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">&nbsp;
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<div align="center">
+  
+  ![Giridhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giridhar122&layout=compact&theme=radical&hide_border=true&border_radius=10)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=radical&hide_border=true&border_radius=10)
+  
+</div>
 
 ---
 
@@ -50,15 +62,34 @@ I'm a final-year Computer Science student at **Amrita Vishwa Vidyapeetham** with
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>Python Hangman</h3>
-      <p>A classic word-guessing game built with Python. Features include a dynamic word list, tracking of incorrect guesses, and a clean, interactive command-line interface.</p>
-      <a href="https://github.com/giridhar122/python-hang"><strong>View on GitHub →</strong></a>
+      <h3>🧩 Python Hangman</h3>
+      <p>A classic word-guessing game built with Python. Features include a dynamic word list, tracking of incorrect guesses, and an interactive CLI interface.</p>
+      <a href="https://github.com/giridhar122/python-hang"><strong>🔗 View on GitHub →</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Blackjack Game</h3>
-      <p>A Python-based simulation of the popular card game Blackjack (21). This project demonstrates object-oriented programming (OOP) principles to manage cards, decks, and player hands.</p>
-      <a href="https://github.com/giridhar122/Blackjack-"><strong>View on GitHub →</strong></a>
+      <h3>♠️ Blackjack Game</h3>
+      <p>A Python-based simulation of Blackjack (21) using Object-Oriented Programming principles to manage cards, decks, and player logic.</p>
+      <a href="https://github.com/giridhar122/Blackjack-"><strong>🔗 View on GitHub →</strong></a>
     </td>
   </tr>
 </table>
 
+---
+
+### 🌐 Let's Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/giridhar-r-a01470320" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Send%20Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/giridhar122" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub%20Portfolio-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+⭐️ *“Strive to build things that make life easier, smarter, and meaningful.”*  
