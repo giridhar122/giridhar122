@@ -35,9 +35,7 @@ I love exploring data-driven solutions, building intelligent models, and develop
 <img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&title_color=79dafa&text_color=c9d1d9&icon_color=79dafa" width="48%" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
 
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridhar122&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%" />
+<br>
 
 </div>
 
