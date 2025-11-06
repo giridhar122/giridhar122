@@ -92,9 +92,10 @@ I love exploring data-driven solutions, building intelligent models, and develop
   <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:rgiridhar1212@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=rgiridhar1212@gmail.com&su=Let's%20Connect%20via%20GitHub&body=Hi%20Giridhar,%20I%20found%20your%20profile%20interesting..." target="_blank">
   <img src="https://img.shields.io/badge/Send%20me%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
+
 
 </div>
 
