@@ -10,13 +10,16 @@
 
 ### 👨‍💻 About Me
 
-I'm a **final-year Computer Science student at Amrita Vishwa Vidyapeetham** with a strong passion for **Artificial Intelligence**, **Data Science**, and **efficient problem-solving**.  
-I love exploring data-driven solutions, building intelligent models, and developing impactful software that makes technology smarter and more human.
+I'm a final-year Computer Science student at Amrita Vishwa Vidyapeetham, deeply passionate about Artificial Intelligence, Data Science, and Software Development.
+I enjoy uncovering insights from data, building intelligent systems, and creating scalable, impactful software solutions that bridge the gap between technology and human experience.
 
-- 🎓 Pursuing **B.Tech in Computer Science and Engineering**  
-- 🤖 Exploring **Machine Learning**, **NLP**, and **Predictive Modeling**  
-- 🧠 Passionate about integrating **AI/ML models** into scalable systems  
-- 🚀 Actively seeking **Full-time opportunities** in *Software Development*, *AI/ML Engineering*, and *Data Science*  
+🎓 Pursuing B.Tech in Computer Science and Engineering
+
+🤖 Focused on Machine Learning, Natural Language Processing (NLP), and Predictive Analytics
+
+🧠 Interested in developing and deploying AI-driven applications that solve real-world problems
+
+🚀 Actively seeking Full-time roles in Software Development, AI/ML Engineering, or Data Science  
 
 ---
 
