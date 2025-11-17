@@ -1,6 +1,6 @@
 <div align="center">
 
-#  I'm **Giridhar** 😊
+#  I'm **Giridhar** �
 ###  Artificial Intelligence & Data Science Enthusiast  
 ### Computer Science Student | Problem Solver | Impact Driven 
 
