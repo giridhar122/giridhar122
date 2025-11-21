@@ -84,7 +84,7 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 
 <div align="center">
 
-🌟 *I’m always excited to collaborate on AI/ML projects, data-driven solutions, or open-source contributions.*  
+🌟 *i m interested to collaborate on AI/ML projects, data-driven solutions, or open-source contributions.*  
 
 
 <br>
