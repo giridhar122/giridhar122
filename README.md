@@ -17,9 +17,9 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 
 🤖 Focused on Machine Learning, Natural Language Processing (NLP), and Predictive Analytics
 
-🧠 Interested in developing and deploying AI-driven applications that solve real-world problems
+🧠 Interested in developing and deploying AI-driven applications that solve real-world problems.
 
-🚀 Actively seeking Full-time roles in Software Development, AI/ML Engineering, or Data Science  
+🚀 Actively seeking Full-time roles in Software Development, AI/ML Engineering, or Data Science.  
 
 ---
 
