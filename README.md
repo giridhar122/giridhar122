@@ -1,15 +1,3 @@
-### 📊 GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&title_color=79dafa&text_color=c9d1d9&icon_color=79dafa" width="48%" alt="Giridhar's GitHub Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="Giridhar's GitHub Streak" />
-
-<br>
-
-</div>
-
----
 
 <div align="center">
 
@@ -39,20 +27,16 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
   <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css,git,vscode,jupyter&perline=5" alt="Tech Stack Icons" />
 </p>
 
----
-
 ### 📊 GitHub Insights
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&title_color=79dafa&text_color=c9d1d9&icon_color=79dafa" width="48%" alt="Giridhar's GitHub Stats" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="Giridhar's GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="Giridhar's GitHub Streak" />
 
 <br>
 
 </div>
-
----
 
 ### 🚀 Featured Projects
 
@@ -75,7 +59,7 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 
 ---
 
-### 🌱 Current Focus
+### 🌱 Current Focus on:
 
 * 📘 Strengthening my problem-solving skills through **LeetCode** & **competitive coding**
 * 🧩 Working on **AI/ML mini-projects** involving real-world datasets
@@ -83,14 +67,14 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 
 ---
 
-### ✨ Quote I Live By
+### ✨ And this one....
 
 > _“The best way to predict the future is to create it.”_
 > — Alan Kay
 
 ---
 
-### 🤝 Let’s Connect & Collaborate!
+### 🤝 Let’s Connect & Collaborate!!!!
 
 <div align="center">
 
