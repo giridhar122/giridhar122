@@ -28,12 +28,8 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 </p>
 
 <p align="center">
-  <a href="https://github.com/giridhar122">
-    <img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&title_color=79dafa&text_color=c9d1d9&icon_color=79dafa" alt="Giridhar's GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/giridhar122">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" alt="Giridhar's GitHub Streak" width="48%" />
-  </a>
+  <img src="https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/profile-details.svg" alt="GitHub Stats" width="45%" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-streak-stats/master/github-readme-streak-stats.svg" alt="GitHub Streak" width="45%" />
 </p>
 
 ### 🚀 Featured Projects
