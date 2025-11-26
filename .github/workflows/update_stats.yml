@@ -15,7 +15,7 @@ jobs:
 
       # ----------------- Fetch GitHub Stats Card -----------------
       - name: Fetch and Save GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+        uses: anuraghazra/github-readme-stats@v3 # FIXED: Changed @master to @v3
         with:
           username: ${{ github.repository_owner }}
           show_icons: true
@@ -30,7 +30,7 @@ jobs:
 
       # ----------------- Fetch GitHub Streak Card -----------------
       - name: Fetch and Save GitHub Streak
-        uses: DenverCoder1/github-readme-streak-stats@master
+        uses: DenverCoder1/github-readme-streak-stats@v2 # FIXED: Changed @master to @v2
         with:
           user: ${{ github.repository_owner }}
           theme: tokyonight
