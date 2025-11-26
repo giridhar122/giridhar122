@@ -1,0 +1,45 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    # Runs every day at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows you to run it manually
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ----------------- Fetch GitHub Stats Card -----------------
+      - name: Fetch and Save GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        with:
+          username: ${{ github.repository_owner }}
+          show_icons: true
+          theme: tokyonight
+          count_private: true
+          hide_border: true
+          border_radius: 12
+          title_color: 79dafa
+          text_color: c9d1d9
+          icon_color: 79dafa
+          output: assets/github-stats.svg # Saves the image to assets/
+
+      # ----------------- Fetch GitHub Streak Card -----------------
+      - name: Fetch and Save GitHub Streak
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user: ${{ github.repository_owner }}
+          theme: tokyonight
+          hide_border: true
+          border_radius: 12
+          output: assets/github-streak.svg # Saves the image to assets/
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "📊 Chore: Auto update GitHub stats images"
+          branch: main 
