@@ -1,8 +1,21 @@
+### 📊 GitHub Insights
+
 <div align="center">
 
-#  I'm **Giridhar** 
-###  Artificial Intelligence & Data Science Enthusiast  
-### Computer Science Student | Problem Solver | Impact Driven 
+<img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&title_color=79dafa&text_color=c9d1d9&icon_color=79dafa" width="48%" alt="Giridhar's GitHub Stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="Giridhar's GitHub Streak" />
+
+<br>
+
+</div>
+
+---
+
+<div align="center">
+
+# I'm **Giridhar**
+### Artificial Intelligence & Data Science Enthusiast
+### Computer Science Student | Problem Solver | Impact Driven
 
 </div>
 
@@ -13,20 +26,17 @@
 I'm a final-year Computer Science student at Amrita Vishwa Vidyapeetham, deeply passionate about Artificial Intelligence, Data Science, and Software Development.
 I enjoy uncovering insights from data, building intelligent systems, and creating scalable, impactful software solutions that bridge the gap between technology and human experience.
 
-🎓 Pursuing B.Tech in Computer Science and Engineering
-
-🤖 Focused on Machine Learning, Natural Language Processing (NLP), and Predictive Analytics
-
-🧠 Interested in developing and deploying AI-driven applications that solve real-world problems.
-
-🚀 Actively seeking Full-time roles in Software Development, AI/ML Engineering, or Data Science.  
+* 🎓 Pursuing B.Tech in Computer Science and Engineering
+* 🤖 Focused on Machine Learning, Natural Language Processing (NLP), and Predictive Analytics
+* 🧠 Interested in developing and deploying AI-driven applications that solve real-world problems.
+* 🚀 Actively seeking Full-time roles in Software Development, AI/ML Engineering, or Data Science.
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css,git,vscode,jupyter&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css,git,vscode,jupyter&perline=5" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -35,8 +45,8 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&title_color=79dafa&text_color=c9d1d9&icon_color=79dafa" width="48%" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&title_color=79dafa&text_color=c9d1d9&icon_color=79dafa" width="48%" alt="Giridhar's GitHub Stats" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="Giridhar's GitHub Streak" />
 
 <br>
 
@@ -50,13 +60,13 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
   <tr>
     <td width="50%" valign="top">
       <h3>🎯 Python Hangman</h3>
-      <p>A fun, interactive command-line game built in Python.  
+      <p>A fun, interactive command-line game built in Python.
       Features include random word selection, input validation, and visual progress tracking.</p>
       <a href="https://github.com/giridhar122/python-hang"><strong>🔗 View Project →</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3>🃏 Blackjack Game</h3>
-      <p>A Python-based simulation of Blackjack using **Object-Oriented Programming** concepts.  
+      <p>A Python-based simulation of Blackjack using **Object-Oriented Programming** concepts.
       Includes deck management, scoring logic, and player-bot interactivity.</p>
       <a href="https://github.com/giridhar122/Blackjack-"><strong>🔗 View Project →</strong></a>
     </td>
@@ -67,16 +77,16 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 
 ### 🌱 Current Focus
 
-- 📘 Strengthening my problem-solving skills through **LeetCode** & **competitive coding**
-- 🧩 Working on **AI/ML mini-projects** involving real-world datasets
-- 🧠 Learning **Deep Learning**, **NLP**, and **Model Optimization**
+* 📘 Strengthening my problem-solving skills through **LeetCode** & **competitive coding**
+* 🧩 Working on **AI/ML mini-projects** involving real-world datasets
+* 🧠 Learning **Deep Learning**, **NLP**, and **Model Optimization**
 
 ---
 
 ### ✨ Quote I Live By
 
-> _“The best way to predict the future is to create it.”_  
-> — Alan Kay  
+> _“The best way to predict the future is to create it.”_
+> — Alan Kay
 
 ---
 
@@ -84,7 +94,7 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 
 <div align="center">
 
-🌟 *i m interested to collaborate on AI/ML projects, data-driven solutions, or open-source contributions.*  
+🌟 *I'm interested to collaborate on AI/ML projects, data-driven solutions, or open-source contributions.*
 
 
 <br>
@@ -103,7 +113,7 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 ---
 
 <div align="center">
-  
-⭐️ *“Turning ideas into intelligent systems that make a difference.”*  
+
+⭐️ *“Turning ideas into intelligent systems that make a difference.”*
 
 </div>
