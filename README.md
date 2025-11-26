@@ -27,16 +27,14 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
   <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css,git,vscode,jupyter&perline=5" alt="Tech Stack Icons" />
 </p>
 
-### 📊 GitHub Insights
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&title_color=79dafa&text_color=c9d1d9&icon_color=79dafa" width="48%" alt="Giridhar's GitHub Stats" /> 
-<img src="https://streak-stats.demolab.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" width="48%" alt="Giridhar's GitHub Streak" />
-
-<br>
-
-</div>
+<p align="center">
+  <a href="https://github.com/giridhar122">
+    <img src="https://github-readme-stats.vercel.app/api?username=giridhar122&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&border_radius=12&title_color=79dafa&text_color=c9d1d9&icon_color=79dafa" alt="Giridhar's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/giridhar122">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=giridhar122&theme=tokyonight&hide_border=true&border_radius=12" alt="Giridhar's GitHub Streak" width="48%" />
+  </a>
+</p>
 
 ### 🚀 Featured Projects
 
