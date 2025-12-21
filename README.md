@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<h2>**Giridhar R**</h2>
+#**Giridhar R**
 ### Artificial Intelligence & Data Science Enthusiast
 ### Computer Science Student | Problem Solver | Impact Driven
 
