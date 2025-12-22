@@ -1,7 +1,7 @@
 
 <div align="center">
 
-## Giridhar R
+# Giridhar R
 
 ### Artificial Intelligence & Data Science Enthusiast
 ### Computer Science Student | Problem Solver | Impact Driven
