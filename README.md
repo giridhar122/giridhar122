@@ -89,10 +89,4 @@ I enjoy uncovering insights from data, building intelligent systems, and creatin
 
 </div>
 
----
 
-<div align="center">
-
-⭐️ *“Turning ideas into intelligent systems that make a difference.”*
-
-</div>
