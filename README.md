@@ -40,7 +40,7 @@ I enjoy uncovering insights from data,building intelligent systems,and creating 
     <td width="50%" valign="top">
       <h3>🎯 Python Hangman</h3>
       <p>A fun, interactive command-line game built in Python.
-      Features include random word selection, input validation, and visual progress tracking.</p>
+      Features include random word selection, input validation,and visual progress tracking.</p>
       <a href="https://github.com/giridhar122/python-hang"><strong>🔗 View Project →</strong></a>
     </td>
     <td width="50%" valign="top">
