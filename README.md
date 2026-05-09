@@ -73,7 +73,7 @@ I enjoy uncovering insights from data, building intelligent systems,and creating
 
 <div align="center">
 
-🌟 *I'm interested to collaborate on AI/ML projects, data-driven solutions, or open-source contributions.*
+🌟 *I'm interested to collaborate on AI/ML projects,data-driven solutions,or open-source contributions.*
 
 
 <br>
