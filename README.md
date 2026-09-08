@@ -46,7 +46,7 @@ I enjoy uncovering insights from data,building intelligent systems,and creating 
     <td width="50%" valign="top">
       <h3>🃏 Blackjack Game</h3>
       <p>A Python-based simulation of Blackjack using **Object-Oriented Programming** concepts.
-      Includes deck management, scoring logic,and player bot interactivity.</p>
+      Includes deck management, scoring logic, and player bot interactivity.</p>
       <a href="https://github.com/giridhar122/Blackjack-"><strong>🔗 View Project →</strong></a>
     </td>
   </tr>
