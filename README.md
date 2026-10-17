@@ -30,7 +30,7 @@ I specialize in extracting actionable insights from data,engineering machine lea
 - 🎓 **Education:** Pursuing B.Tech in Computer Science and Engineering
 - 🤖 **Focus Areas:** Machine Learning, Natural Language Processing (NLP), & Predictive Analytics
 - 🎯 **Current Objective:** Actively seeking **Full-Time / Internship roles** in AI/ML Engineering,Data Science, and Software Development
-- ⚡ **Fun Fact:** Driven by the passion to turn complex data into intelligent, user-centric applications!
+- ⚡ **Fun Fact:** Driven by the passion to turn complex data into intelligent,user-centric applications!
 
 ---
 
