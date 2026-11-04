@@ -58,7 +58,7 @@ I specialize in extracting actionable insights from data,engineering machine lea
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/CLI-Game-black?style=flat-square" />
       </p>
-      <p>An interactive, command-line word guessing game. Features random word selection from curated lists, robust input validation, and real-time visual progress updates.</p>
+      <p>An interactive, command-line word guessing game. Features random word selection from curated lists,robust input validation, and real-time visual progress updates.</p>
       <p align="center">
         <a href="https://github.com/giridhar122/python-hang"><b>🔗 View Repository →</b></a>
       </p>
