@@ -28,7 +28,7 @@ I am a **Computer Science & Engineering** undergraduate passionate about leverag
 I specialize in extracting actionable insights from data,engineering machine learning workflows,and crafting scalable software solutions. 
 
 - 🎓 **Education:** B.Tech in Computer Science and Engineering
-- 🤖 **Focus Areas:** Machine Learning, Natural Language Processing (NLP), & Predictive Analytics
+- 🤖 **Focus Areas:** Machine Learning, Natural Language Processing (NLP),& Predictive Analytics
 - 🎯 **Current Objective:** Actively seeking **Full-Time / Internship roles** in AI/ML Engineering,Data Science, and Software Development
 - ⚡ **Fun Fact:** Driven by the passion to turn complex data into intelligent,user-centric applications!
 
